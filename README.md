@@ -24,7 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/dhruvshan/frontend-mentor-qr-code)
+- Solution URL: [Github Link](https://github.com/dhruvshan/frontend-mentor-qr-code)
+- Live URL: [Vercel Link](https://frontend-mentor-qr-code-five.vercel.app/)
 
 ## My process
 
@@ -48,5 +49,5 @@ Since this was built with simple HTML and CSS, would like to shift to using Reac
 ## Author
 
 - Website - [Dhruv Shanbhag](https://dhruvshan.github.io)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/dhruvshan)
+- Frontend Mentor - [@dhruvshan](https://www.frontendmentor.io/profile/dhruvshan)
 
